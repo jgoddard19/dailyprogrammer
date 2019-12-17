@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[86]:
-
+# Challenge #378
 
 def rem_zero(seq):
 #     take a list and return the same set with all 0's removed
